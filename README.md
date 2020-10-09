@@ -31,8 +31,7 @@ $ python2 crack.py
 * V1 (Fix Errors Installed)
 * V2 (Fix Errors Clone Group)
 * V3 (Done All Fix Error)
-* V4 (Update New Fiture and Fix Error)
-* V5 (-)
+* V4 (Fix Login Email)
 
 Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
