@@ -1,3 +1,2 @@
 request
 mechanize
-bs4
